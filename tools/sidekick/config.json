@@ -5,7 +5,7 @@
       "id": "library",
       "title": "Library",
       "environments": ["edit", "dev"],
-      "url": "https://main--shmehta-wknd-21012025-85928--svfranklindemo.aem.page/tools/sidekick/library.html"
+      "url": "https://sidekick-library--aem-block-collection--adobe.aem.page/tools/sidekick/library.html"
     },  
     {
       "id": "asset-library",
